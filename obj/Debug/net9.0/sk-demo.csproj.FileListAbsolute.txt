@@ -40,3 +40,4 @@
 /Users/rh/workspace/sk-demo/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/rh/workspace/sk-demo/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
 /Users/rh/workspace/sk-demo/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/rh/workspace/sk-demo/obj/Debug/net9.0/sk-demo.sourcelink.json

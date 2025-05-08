@@ -36,6 +36,7 @@ kernelBuilder.AddAzureOpenAIChatCompletion(
 kernelBuilder.Plugins.AddFromType<BookTravelPlugin>("BookTravel");
 kernelBuilder.Plugins.AddFromType<WeatherPlugin>("Weather");
 kernelBuilder.Plugins.AddFromType<RagPlugin>("Rag");
+kernelBuilder.Plugins.AddFromType<CallCenterWorkflowPlugin>("CallCenterWorkflow");
 
 var kernel = kernelBuilder.Build();
 
